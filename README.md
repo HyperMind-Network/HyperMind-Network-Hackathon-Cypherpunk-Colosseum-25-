@@ -2,7 +2,6 @@
 HyperMind Network is a Web3-powered Learn &amp; Earn ecosystem built on Solana. It merges education, consciousness, and decentralized finance into one platform — empowering humanity through blockchain, AI, and inner growth.
 
 ---
-
 # 🌐 HyperMind Network — Hackathon Edition  
 
 **Empowering human potential through decentralized learning and conscious technology.**  
@@ -52,6 +51,26 @@ Our system combines technology and human growth to empower people across all dim
 
 ---
 
+## 🧩 Core Protocols of Conscious Learning  
+
+HyperMind Network is built upon three foundational protocols that bridge **human consciousness**, **education**, and **technology**:  
+
+### ⚖️ The Karma Ethic Protocol  
+A reputation and trust system that connects users’ contributions, integrity, and community impact to their digital identity.  
+It promotes conscious action and ethical participation across the ecosystem.  
+
+### 💫 The LGMO Protocol  
+Rooted in **Leadership, Growth, Mindfulness, and Optimism**, this protocol defines the human and energetic foundation of the HyperMind Network.  
+It guides how learners, creators, and leaders evolve within the ecosystem.  
+
+### 🧠 The Learning Protocol  
+The adaptive structure that links knowledge, energy, and evolution.  
+It ensures that learning experiences within HyperMind are measurable, rewarding, and aligned with each individual’s growth journey.  
+
+Together, these protocols create a living system where **technology follows consciousness**, not the other way around.  
+
+---
+
 ## 👥 Founding & Core Team  
 
 | Name | Role | Expertise | Location |
@@ -60,7 +79,7 @@ Our system combines technology and human growth to empower people across all dim
 | **Julián Marcelo Bacallao Estrada** | Co-Founder & Protocol Architect | Blockchain Logic, Conscious Systems, Web3 Development | Germany 🇩🇪 / Cuba 🇨🇺 |
 | **Luis Fernández Torres** | Co-Founder & Lead Developer | Full-Stack & Smart Contract Development | Brazil 🇧🇷 / Cuba 🇨🇺 |
 | **Saurav Kaplas** | Web3 Developer | Blockchain Architecture & dApp Development | India 🇮🇳 |
-| **Dr. Mohammad Afzaal** | AI Research Collaborator | PhD in Artificial Intelligence, Adaptive Learning Systems | Pakistan 🇵🇰 |
+| **Dr. Mohammad Afzal** | AI Research Collaborator | PhD in Artificial Intelligence, Adaptive Learning Systems | Pakistan 🇵🇰 |
 
 ---
 
