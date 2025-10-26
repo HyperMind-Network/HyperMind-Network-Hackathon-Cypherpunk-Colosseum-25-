@@ -79,7 +79,7 @@ Together, these protocols create a living system where **technology follows cons
 | **Julián Marcelo Bacallao Estrada** | Co-Founder & Protocol Architect | Blockchain Logic, Conscious Systems, Web3 Development | Germany 🇩🇪 / Cuba 🇨🇺 |
 | **Luis Fernández Torres** | Co-Founder & Lead Developer | Full-Stack & Smart Contract Development | Brazil 🇧🇷 / Cuba 🇨🇺 |
 | **Saurav Kaplas** | Web3 Developer | Blockchain Architecture & dApp Development | India 🇮🇳 |
-| **Dr. Mohammad Afzal** | AI Research Collaborator | PhD in Artificial Intelligence, Adaptive Learning Systems | Pakistan 🇵🇰 |
+| **Dr. Mohammad Afzaal** | AI Research Collaborator | PhD in Artificial Intelligence, Adaptive Learning Systems | Pakistan 🇵🇰 |
 
 ---
 
