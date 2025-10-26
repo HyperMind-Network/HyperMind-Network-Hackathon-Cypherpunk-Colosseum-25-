@@ -158,7 +158,7 @@ All code, logic, and documentation were prepared and structured for evaluation d
 
 ## 📩 Contact
 For access, collaboration, or partnership inquiries:  
-📧 hello@hypermind.network  
+📧 contact@hypermind.network  
 
 ---
 
