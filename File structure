@@ -1,0 +1,22 @@
+HyperMind-Hackathon/
+│
+├── README.md
+│
+├── /docs/
+│   ├── HyperMind_Light_Paper.pdf
+│   ├── HyperMind_White_Paper_v1.1.pdf
+│   ├── HyperMind_Roadmap.pdf
+│   ├── HyperMind_Tokenomics_and_Governance.pdf
+│   ├── HyperMind_AI_Addendum_v1.1.pdf
+│
+├── /protocols/
+│   ├── The_LGMO_Protocol_HyperMind_Network.pdf
+│   ├── The_Learning_Protocol_HyperMind_Network.pdf
+│   ├── HyperMind_Conscious_Intelligence_Stack_Integration_Brief.pdf
+│
+├── /assets/
+│   ├── HyperMind_Revenue_Flow_Across_Economies.jpeg
+│   ├── HyperMind_Logo.png
+│
+└── /src/
+    └── (eventuell kod eller demo du skapade under hackathonen)
