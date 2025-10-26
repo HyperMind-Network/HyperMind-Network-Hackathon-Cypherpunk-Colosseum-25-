@@ -3,177 +3,106 @@ HyperMind Network is a Web3-powered Learn &amp; Earn ecosystem built on Solana. 
 
 ---
 
-# 🌐 HyperMind Network — Hackathon Edition
+# 🌐 HyperMind Network — Hackathon Edition  
 
-**Decentralized Learning, Consciousness & Financial Empowerment**
+**Empowering human potential through decentralized learning and conscious technology.**  
 
-HyperMind Network is building a **Web3-powered Learn & Earn ecosystem** that merges education, consciousness, and decentralized finance into one holistic platform.
-
-This repository presents the hackathon version of the project — focused on demonstrating the **core architecture, token utility, and protocols** driving the HyperMind ecosystem.
-
----
-
-## 🚀 Vision
-
-To **elevate human potential** through decentralized education, empowerment, and inner growth — aligning technology with consciousness.
-
-HyperMind merges the **Knowledge Economy**, **Creator Economy**, and **Financial Economy** into one integrated Web3 hub.
+HyperMind Network is a **Web3 Learn & Earn platform built on Solana** that connects education, personal growth, and decentralized finance.  
+Our mission is to **elevate humanity** by merging learning, AI, and blockchain into a single ecosystem that rewards awareness, contribution, and evolution.
 
 ---
 
-## 🔗 Architecture Overview
+## 🚀 Vision  
 
-### 🧠 Knowledge Economy  
-- Courses  
-- NFT Certifications  
-- Subscriptions  
-- B2B & B2C Training  
+To create a world where education is accessible, empowering, and economically rewarding —  
+where people can **learn, grow, and earn** through conscious participation in a global network.  
 
-### 🎨 Creator Economy  
-- Tutors & Coaches  
-- Live Masterclasses  
-- Revenue Sharing  
-- Community Growth  
-
-### 💰 Financial Economy  
-- HMN Token (SPL on Solana)  
-- DAO Treasury  
-- Trust Fund ROI  
-- Staking & Yield Mechanisms  
-
-![Revenue Flow](/assets/HyperMind_Revenue_Flow_Across_Economies.jpeg)
+HyperMind Network brings together:  
+- 🌱 **Education & Learning** – A decentralized learning platform.  
+- 💎 **Finance & Opportunity** – A tokenized economy with real value creation.  
+- 🤝 **Community & Growth** – A global movement focused on awareness and empowerment.  
 
 ---
 
-## 🪙 HMN Token Overview
+## 🪙 HMN Token  
 
-**Token Name:** HyperMind Network Token (HMN)  
-**Standard:** SPL Token (Solana Program Library)  
+**Token Name:** HyperMind Network (HMN)  
 **Blockchain:** Solana  
-**Type:** Utility & Governance Token  
+**Type:** SPL Utility & Governance Token  
 
-The **HMN Token** is the native currency of the **HyperMind Network** and functions as both a **utility** and **governance** asset across the ecosystem.  
-It powers the Learn & Earn model, staking mechanisms, DAO governance, and regenerative funding pools.  
+The **HMN Token** powers all activities within the ecosystem.  
+It enables participation, staking, access to learning modules, and community governance through the **HyperMind DAO**.  
 
-**Core Utilities:**  
-- Access to premium courses, certifications, and content.  
-- Participation in DAO voting and ecosystem governance.  
-- Staking for yield, trust-based rewards, and social impact dividends.  
-- Incentives for creators, mentors, and learners within the platform.  
-
-**Governance:**  
-The **HyperMind DAO** governs the ecosystem, where token holders use HMN to propose, discuss, and vote on decisions regarding:  
-- Educational grants and funding allocation.  
-- Platform development and integrations.  
-- Community and ecosystem partnerships.  
-
-**Solana Advantages:**  
-- Ultra-fast transactions (400ms block time).  
-- Extremely low fees (fractions of a cent).  
-- Scalable infrastructure for decentralized education and AI modules.  
-- Compatibility with Solana smart contracts, NFTs, and staking protocols.  
+**Key Functions:**  
+- Rewarding learners and creators.  
+- Enabling staking and long-term participation.  
+- DAO-based governance and project voting.  
+- Supporting educational and social impact initiatives.  
 
 ---
 
-## 🧬 Core Protocols
+## 🧠 Technology Overview  
 
-### ⚡ The LGMO Protocol  
-Rooted in *Leadership, Growth, Mindfulness, and Optimism*.  
-Defines the spiritual and psychological architecture behind human learning and empowerment.
+HyperMind Network integrates:  
+- **Blockchain (Solana):** For transparent, fast, and secure transactions.  
+- **Artificial Intelligence:** To personalize learning and create adaptive educational experiences.  
+- **Gamified Learning Models:** To make education rewarding, engaging, and measurable.  
 
-### 🌀 The Learning Protocol  
-Structures human development as an energy flow — aligning self-awareness, practice, and creation.
-
-### 🔮 The Conscious Intelligence Stack  
-Integrates AI, blockchain, and gamification into a unified consciousness-based network for global learning.
+Our system combines technology and human growth to empower people across all dimensions — mind, energy, and economy.  
 
 ---
 
-## 💠 Integration with Karma Protocol
-Developed by **Julián Marcelo Bacallao Estrada**, the Karma Protocol introduces decentralized trust scoring — aligning reputation, contribution, and consciousness.
-
-Together with HyperMind’s systems, this forms a **synergistic web of learning, trust, and growth**.
-
----
-
-## 📘 Related Documents
-
-| Document | Description |
-|-----------|--------------|
-| [HyperMind Light Paper](docs/HyperMind_Light_Paper.pdf) | Overview of the mission, vision, and system |
-| [HyperMind White Paper v1.1](docs/HyperMind_White_Paper_v1.1.pdf) | Detailed architecture and philosophy |
-| [AI Addendum v1.1](docs/HyperMind_AI_Addendum_v1.1.pdf) | Integration of AI and decentralized data layers |
-| [Tokenomics & Governance](docs/HyperMind_Tokenomics_and_Governance.pdf) | HMN token economics and DAO mechanisms |
-| [Roadmap](docs/HyperMind_Roadmap.pdf) | Execution and development roadmap |
-| [The LGMO Protocol](protocols/The_LGMO_Protocol_HyperMind_Network.pdf) | Foundational human growth framework |
-| [The Learning Protocol](protocols/The_Learning_Protocol_HyperMind_Network.pdf) | The methodology of evolution and self-learning |
-| [Conscious Intelligence Stack](protocols/HyperMind_Conscious_Intelligence_Stack_Integration_Brief.pdf) | Technical architecture for AI & blockchain integration |
-
----
-
-## 👥 Founding & Core Team
+## 👥 Founding & Core Team  
 
 | Name | Role | Expertise | Location |
 |------|------|------------|-----------|
-| **Luis Guillermo Muñoz Orts** | Founder, CEO & Visionary Architect | Conscious Education, Coaching, System Design, Leadership | Sweden 🇸🇪 / Cuba 🇨🇺 |
-| **Julián Marcelo Bacallao Estrada** | Co-Founder & Protocol Architect (Author of Karma Protocol) | Blockchain Logic, Protocol Design, AI-Integrated Systems | Germany 🇩🇪 / Cuba 🇨🇺 |
-| **Luis Fernández Torres** | Co-Founder & Lead Developer | Web3 Backend, Full-Stack Development, Smart Contracts | Brazil 🇧🇷 / Cuba 🇨🇺 |
-| **Saurabh Kaplas** | Web3 Developer | Blockchain Architecture, dApp Development, Tokenization Frameworks | India 🇮🇳 |
-| **Dr. Mohammad Afzaal** | AI Developer & Research Collaborator | PhD in Artificial Intelligence — Specializing in AI-driven Education Systems and Conscious Intelligence | Pakistan 🇵🇰 |
+| **Luis Guillermo Muñoz Orts** | Founder & Visionary Architect | Conscious Education, Leadership, System Design | Sweden 🇸🇪 / Cuba 🇨🇺 |
+| **Julián Marcelo Bacallao Estrada** | Co-Founder & Protocol Architect | Blockchain Logic, Conscious Systems, Web3 Development | Germany 🇩🇪 / Cuba 🇨🇺 |
+| **Luis Fernández Torres** | Co-Founder & Lead Developer | Full-Stack & Smart Contract Development | Brazil 🇧🇷 / Cuba 🇨🇺 |
+| **Saurav Kaplas** | Web3 Developer | Blockchain Architecture & dApp Development | India 🇮🇳 |
+| **Dr. Mohammad Afzaal** | AI Research Collaborator | PhD in Artificial Intelligence, Adaptive Learning Systems | Pakistan 🇵🇰 |
 
 ---
 
-### 🧩 Summary of Roles
-- **Luis Guillermo Muñoz Orts** – Founder and Visionary Leader of HyperMind Network; designer of the ecosystem’s architecture and consciousness frameworks.  
-- **Julián Marcelo Bacallao Estrada** – Creator of the *Karma Protocol* and co-architect of the HyperMind decentralized trust system.  
-- **Luis Fernández Torres** – Leads technical development, backend architecture, and token mechanics.  
-- **Saurav Kaplas** – Builds and maintains Web3 integrations, smart contracts, and decentralized application layers.  
-- **Dr. Mohammad Afzaal** – Leads AI development and research collaboration, focusing on intelligent adaptive education and the creation of a PhD-level AI learning architecture for HyperMind.  
+## 🗺️ Roadmap (Overview)  
+
+**Phase 1 – Foundation (2025)**  
+- Hackathon participation and concept validation.  
+- MVP and token utility development.  
+- Onboarding of first developer team.  
+
+**Phase 2 – Growth (2026)**  
+- Launch of the Learn & Earn platform.  
+- DAO activation and staking features.  
+- AI integration for adaptive learning.  
+
+**Phase 3 – Expansion (2027+)**  
+- Global community onboarding.  
+- Partnerships with schools, institutions, and DAOs.  
+- Launch of decentralized trust & reputation layer.  
 
 ---
 
-## ⚖️ Legal & Licensing
+## ⚖️ Legal Notice  
 
-This repository and its contents are protected under the intellectual property of **HyperMind Network OÜ (Estonia)**.  
+This repository is part of the **Hackathon Edition** of the HyperMind Network project.  
+All ideas, texts, and designs are protected by **HyperMind Network OÜ (Estonia)**.  
 © 2025 HyperMind Network — All rights reserved.  
-Unauthorized redistribution or use is prohibited.
+Unauthorized redistribution, duplication, or derivative use is prohibited.  
 
 ---
 
-## ✨ Motto
-**Empowering human potential through consciousness, education, and decentralized technology.**
+## 📫 Contact  
 
----
-
-## 🧭 For Hackathon Reviewers
-This repository represents the hackathon edition of HyperMind Network, containing:  
-- Foundational documentation  
-- Protocol frameworks  
-- Tokenomics overview  
-- Visual revenue architecture  
-
-All code, logic, and documentation were prepared and structured for evaluation during the hackathon period.
-
----
-
-## 📩 Contact
-For access, collaboration, or partnership inquiries:  
 📧 contact@hypermind.network  
+🌍 https://hypermind.network *(coming soon)*  
+🏛️ GitHub Organization: [HyperMind-Network](https://github.com/HyperMind-Network)  
 
 ---
 
-## 🌍 Links
-- Official Organization: [HyperMind-Network](https://github.com/HyperMind-Network)  
-- LinkedIn: (add when ready)  
-- Website (coming soon): **https://hypermind.network**
+## ✨ Motto  
+
+**Learn. Earn. Ascend.**  
+Building a conscious, decentralized future for humanity.  
 
 ---
-
-## ✅ Summary
-
-**HyperMind Network — A Conscious Web3 Revolution.**  
-Where **learning**, **trust**, and **value** converge to create a **new decentralized education paradigm.**
-
----
-
-## 🪶 End of README
