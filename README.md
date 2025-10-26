@@ -128,7 +128,7 @@ Together with HyperMind’s systems, this forms a **synergistic web of learning,
 - **Julián Marcelo Bacallao Estrada** – Creator of the *Karma Protocol* and co-architect of the HyperMind decentralized trust system.  
 - **Luis Fernández Torres** – Leads technical development, backend architecture, and token mechanics.  
 - **Saurav Kaplas** – Builds and maintains Web3 integrations, smart contracts, and decentralized application layers.  
-- **Dr. Mohammad Afzal** – Leads AI development and research collaboration, focusing on intelligent adaptive education and the creation of a PhD-level AI learning architecture for HyperMind.  
+- **Dr. Mohammad Afzaal** – Leads AI development and research collaboration, focusing on intelligent adaptive education and the creation of a PhD-level AI learning architecture for HyperMind.  
 
 ---
 
