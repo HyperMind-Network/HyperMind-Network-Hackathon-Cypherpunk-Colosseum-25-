@@ -118,8 +118,8 @@ Together with HyperMind’s systems, this forms a **synergistic web of learning,
 | **Luis Guillermo Muñoz Orts** | Founder, CEO & Visionary Architect | Conscious Education, Coaching, System Design, Leadership | Sweden 🇸🇪 / Cuba 🇨🇺 |
 | **Julián Marcelo Bacallao Estrada** | Co-Founder & Protocol Architect (Author of Karma Protocol) | Blockchain Logic, Protocol Design, AI-Integrated Systems | Germany 🇩🇪 / Cuba 🇨🇺 |
 | **Luis Fernández Torres** | Co-Founder & Lead Developer | Web3 Backend, Full-Stack Development, Smart Contracts | Brazil 🇧🇷 / Cuba 🇨🇺 |
-| **Saurav Kaplas** | Web3 Developer | Blockchain Architecture, dApp Development, Tokenization Frameworks | India 🇮🇳 |
-| **Dr. Mohammad Afzal** | AI Developer & Research Collaborator | PhD in Artificial Intelligence — Specializing in AI-driven Education Systems and Conscious Intelligence | Pakistan 🇵🇰 |
+| **Saurabh Kaplas** | Web3 Developer | Blockchain Architecture, dApp Development, Tokenization Frameworks | India 🇮🇳 |
+| **Dr. Mohammad Afzaal** | AI Developer & Research Collaborator | PhD in Artificial Intelligence — Specializing in AI-driven Education Systems and Conscious Intelligence | Pakistan 🇵🇰 |
 
 ---
 
