@@ -78,7 +78,7 @@ Together, these protocols create a living system where **technology follows cons
 | **Luis Guillermo Muñoz Orts** | Founder & Visionary Architect | Conscious Education, Leadership, System Design | Sweden 🇸🇪 / Cuba 🇨🇺 |
 | **Julián Marcelo Bacallao Estrada** | Co-Founder & Protocol Architect | Blockchain Logic, Conscious Systems, Web3 Development | Germany 🇩🇪 / Cuba 🇨🇺 |
 | **Luis Fernández Torres** | Co-Founder & Lead Developer | Full-Stack & Smart Contract Development | Brazil 🇧🇷 / Cuba 🇨🇺 |
-| **Saurav Kaplas** | Web3 Developer | Blockchain Architecture & dApp Development | India 🇮🇳 |
+| **Saurabh Kaplas** | Web3 Developer | Blockchain Architecture & dApp Development | India 🇮🇳 |
 | **Dr. Muhammad Afzaal** | AI Research Collaborator | PhD in Artificial Intelligence, Adaptive Learning Systems | Pakistan 🇵🇰 |
 
 ---
