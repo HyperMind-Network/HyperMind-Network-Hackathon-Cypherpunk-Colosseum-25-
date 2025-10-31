@@ -114,7 +114,7 @@ Unauthorized redistribution, duplication, or derivative use is prohibited.
 ## 📫 Contact  
 
 📧 contact@hypermind.network  
-🌍 https://hypermind.network *(coming soon)*  
+🌍 https://hypermind.network
 🏛️ GitHub Organization: [HyperMind-Network](https://github.com/HyperMind-Network)  
 
 ---
